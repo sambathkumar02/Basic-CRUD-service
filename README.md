@@ -4,8 +4,8 @@
   
 ## Endpoints
 
-| EndPoints | Methods|
-|---   |---|      
-| /users    | GET|
-|/users/<id>| GET,POST,PUT,DELETE|
+| EndPoints  | Methods|
+|---         |---     |      
+| /users     | GET    |
+|/users/{id} | GET,POST,PUT,DELETE|
   
